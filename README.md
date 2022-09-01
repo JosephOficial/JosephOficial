@@ -1,4 +1,4 @@
-## Oiii eu sou Joseph iniciante de Front end aprendendo sem nem uma ajuda meu DEUS vou ficar louco kkkkk !
+## Oiii eu sou Joseph iniciante de Front end aprendendo sem ajuda meu DEUS vou ficar louco kkkkk !
 
 <div align="center">
   <a href="https://github.com/josephoficial">
@@ -25,6 +25,6 @@
   <a href = "mailto:josephoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-valdomiro-932aa910a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  
+  ![Snake animation](https://github.com/josephoficial/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
  </div>
