@@ -1,7 +1,7 @@
 ## Oiii eu sou Joseph iniciante de Front end!
 <div align="center">
   <a href="https://github.com/josephoficial">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josephoficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josephoficial&show_icons=true&theme=darck&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephoficial&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
@@ -32,6 +32,6 @@
  
   ![Snake animation](https://github.com/josephoficial/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
- <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc><style>@keyframes c0{82.42%{fill:var(--c2)}82.44%,to{fill:var(--ce)}}@keyframes c1{5.85%
+ 
   
 </div>
