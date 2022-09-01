@@ -1,4 +1,4 @@
-## Oiii eu sou Joseph iniciante de Front end!
+## Oiii eu sou Joseph iniciante de Front end aprendendo sem nem uma ajuda meu DEUS vou ficar louco kkkkk !
 
 <div align="center">
   <a href="https://github.com/josephoficial">
