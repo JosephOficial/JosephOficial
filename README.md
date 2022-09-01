@@ -1,23 +1,20 @@
 ## Oiii eu sou Joseph iniciante de Front end!
+</div>
 <div align="center">
   <a href="https://github.com/josephoficial">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josephoficial&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephoficial&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="right" alt="joseph-pic" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676]https://www.facebook.com/photo/?fbid=2626835260748399&set=a.10207670989094](https://scontent.fcgh17-1.fna.fbcdn.net/v/t1.6435-9/87472601_2626835264081732_5223297586240159744_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=nGp0FEwl-oMAX9zbJXq&tn=TkuNEZLa0RG4MAaX&_nc_ht=scontent.fcgh17-1.fna&oh=00_AT_rL16BlZbz5WRG_fJmhVeEh4CnuvWkvJjkemuZYV-MYw&oe=633596FA)">
+  <img align="right" alt="joseph-pic" height="150" style="border-radius:50px;" src="https://www.facebook.com/photo/?fbid=2626835260748399&set=a.10207670989094">
 </div>
   
   ##
