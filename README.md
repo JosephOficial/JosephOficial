@@ -17,7 +17,7 @@
   
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="joseph-pic" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676]https://www.facebook.com/photo/?fbid=2626835260748399&set=a.10207670989094](https://scontent.fcgh17-1.fna.fbcdn.net/v/t1.6435-9/87472601_2626835264081732_5223297586240159744_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=nGp0FEwl-oMAX9zbJXq&tn=TkuNEZLa0RG4MAaX&_nc_ht=scontent.fcgh17-1.fna&oh=00_AT_rL16BlZbz5WRG_fJmhVeEh4CnuvWkvJjkemuZYV-MYw&oe=633596FA)">
 </div>
   
   ##
